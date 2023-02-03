@@ -24,4 +24,4 @@
 [
 // 695
 
-// If 695th left bracket is removed, server will initialized successful.
+// If 695th left bracket is removed, server will initialized successfully.
