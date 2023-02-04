@@ -1,4 +1,11 @@
 // JS/TS server will crash if this file is opened when JS/TS server initialization.
+//
+// Proceure to crash:
+// 1. Open this file
+// 2. "Developer: Reload window" from command pallet
+// 3. Current window reloads
+// 4. JS/TS server initialize starts
+// 5. Server crashes
 
 /*
 0         10        20        30        40        50        60        70        80        90        100
@@ -12,10 +19,7 @@
 [[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[
 // 600
 
-[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[
-// 650
-
-[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[
 // 690
 
 [[[[
