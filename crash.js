@@ -4,7 +4,7 @@
 // 1. Open this file
 // 2. "Developer: Reload window" from command pallet
 // 3. Current window reloads
-// 4. JS/TS server initialize starts
+// 4. JS/TS server initialization starts
 // 5. Server crashes
 
 /*
