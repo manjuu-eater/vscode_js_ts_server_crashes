@@ -1,6 +1,6 @@
 // JS/TS server will crash if this file is opened when JS/TS server initialization.
 //
-// Proceure to crash:
+// Procedure to crash:
 // 1. Open this file
 // 2. "Developer: Reload window" from command pallet
 // 3. Current window reloads
